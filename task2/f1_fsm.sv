@@ -45,6 +45,3 @@ module f1_fsm (
             //what if no default?
         endcase
 endmodule
-
-
-//test commit
